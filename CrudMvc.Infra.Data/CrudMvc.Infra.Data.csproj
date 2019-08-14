@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\src\CrudMvc.Domain\ClassLibrary1\CrudMvc.Domain.csproj" />
+    <ProjectReference Include="..\src\CrudMvc.Infra.CrossCutting\CrudMvc.Infra.CrossCutting.csproj" />
   </ItemGroup>
 
 </Project>

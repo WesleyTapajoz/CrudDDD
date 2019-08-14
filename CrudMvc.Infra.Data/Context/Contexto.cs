@@ -7,10 +7,10 @@ using System.Reflection;
 
 namespace CrudMvc.Infra.Data.Context
 {
-    public class Context : DbContext
+    public class Contexto : DbContext
     {
 
-        public Context() : base("")
+        public Contexto() : base("")
         {
 
         }
